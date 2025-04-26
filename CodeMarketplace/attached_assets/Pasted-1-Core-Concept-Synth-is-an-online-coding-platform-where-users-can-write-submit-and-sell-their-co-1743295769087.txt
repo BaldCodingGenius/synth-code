@@ -1,0 +1,80 @@
+1. Core Concept
+
+Synth is an online coding platform where users can write, submit, and sell their code. It focuses on community-driven coding, allowing developers to collaborate and monetize their work.
+2. Website Layout & Pages
+
+    Home Page
+
+        Modern, minimalistic design with a dark or neutral theme.
+
+        A hero section introducing Synth with a call-to-action (e.g., "Start Coding Now").
+
+        A showcase of trending or recently uploaded code snippets.
+
+        Testimonials or community engagement stats (e.g., "5,000+ developers coding on Synth").
+
+    Code Editor Page
+
+        A full-screen, lightweight code editor (like CodePen).
+
+        Supports multiple languages (starting with HTML, CSS, JavaScript, Python, etc.).
+
+        Features:
+
+            Syntax highlighting
+
+            Auto-save drafts
+
+            Run & preview option (for front-end code)
+
+            A ‘Save & Publish’ button that uploads the code for sale.
+
+    Marketplace Page
+
+        Lists all available code snippets for purchase.
+
+        Filtering and sorting options (e.g., by language, price, popularity).
+
+        Each listing shows:
+
+            Code title
+
+            Short description
+
+            Price (default: $2.99 AUD)
+
+            A preview or demo (if applicable)
+
+            Purchase button.
+
+    User Dashboard
+
+        Displays submitted code, sales analytics, and earnings.
+
+        Purchase history for buyers.
+
+        Account settings (payment, profile, notifications).
+
+    Community Page
+
+        A space for discussions, collaboration, and featured projects.
+
+        Possibly a voting system for the best submissions.
+
+3. Key Monetization System
+
+    When a user submits code, it becomes available for $2.99 AUD.
+
+    After 3 days, the "Save & Publish" button automatically converts the submission into a downloadable file.
+
+    Users can purchase and download code snippets, generating revenue for Synth.
+
+4. Technical Aspects
+
+    Front-End: Likely built with HTML, CSS, JavaScript (React for dynamic UI).
+
+    Back-End: Python or Node.js to handle file processing, user authentication, and payment integration.
+
+    Database: A system to store user data, submitted code, and transaction history.
+
+    Payment Integration: Stripe or PayPal for handling purchases.

@@ -1,0 +1,129 @@
+Wireframe & UI/UX Design for Synth Website
+
+1. Home Page
+
+Layout:
+
+Header: Logo (top-left), Navigation ("Home", "Editor", "Marketplace", "Community", "Dashboard").
+
+Hero Section:
+
+Large banner with a tagline (e.g., "Code, Publish, Earn.")
+
+Call-to-action button: "Start Coding Now."
+
+Featured Snippets:
+
+Grid-based showcase of trending or newly published code snippets.
+
+Each snippet has a preview, title, price, and a "View" button.
+
+Footer: Links to Terms, Privacy, Contact, Social Media.
+
+Color Theme:
+
+Dark mode as the default with a sleek, modern aesthetic.
+
+Primary Colors: Deep Blue (#1E2A38), Neon Cyan (#00FFFF), White (#FFFFFF).
+
+Accent Colors: Soft Purple (#9A6AFF) for highlights.
+
+Buttons: Gradient styles with hover effects.
+
+2. Code Editor Page
+
+Layout:
+
+Header: Logo, Navigation Bar, User Profile Icon.
+
+Editor Panel (Left Side):
+
+Code editor with syntax highlighting.
+
+Tabs for different file types (HTML, CSS, JS, Python, etc.).
+
+Preview Panel (Right Side):
+
+Live output preview for front-end code.
+
+Controls:
+
+Buttons: "Run", "Save Draft", "Save & Publish."
+
+Timer to convert the submission into a downloadable file after 3 days.
+
+UI Elements:
+
+Monospaced font for code (e.g., JetBrains Mono, Consolas).
+
+Dark background with soft contrast panels.
+
+Auto-suggestion and auto-completion features.
+
+3. Marketplace Page
+
+Layout:
+
+Search Bar & Filters:
+
+Search field at the top.
+
+Filters (e.g., Language, Price, Popularity).
+
+Grid/List View of Code Snippets:
+
+Each snippet card includes a preview, title, description, and price.
+
+"Buy & Download" button.
+
+Pagination or Load More Button.
+
+UI Elements:
+
+Hover animations for snippet cards.
+
+Sorting animations for filter changes.
+
+4. User Dashboard
+
+Layout:
+
+Sidebar Navigation:
+
+"My Code", "Sales & Earnings", "Purchase History", "Settings".
+
+Main Panel:
+
+Sales analytics graph (earnings over time).
+
+List of submitted code snippets with status (active, pending, sold).
+
+Settings Panel:
+
+Payment details, Profile info, Notifications.
+
+UI Elements:
+
+Animated graph for earnings (e.g., line or bar chart with smooth transitions).
+
+Cards displaying key metrics like total sales, downloads, and revenue.
+
+5. Community Page
+
+Layout:
+
+Discussion Feed:
+
+Users can post discussions or showcase their work.
+
+Trending Topics Section.
+
+Upvote & Comment System.
+
+UI Elements:
+
+Profile avatars with dynamic status indicators.
+
+Upvote buttons with animated effects.
+
+Comment threads with collapsible replies.
